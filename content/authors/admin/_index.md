@@ -1,39 +1,39 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Mohammad Shamshad  
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Professor of Plant Breeding and Genetics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Punjab Agricultural University
+    url: https://www.pau.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include plant breeding, Genomics and AI for the Plant Breeding.
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Genomics and Molecular Breeding
+  - Phenomics and Robotics in Plant Breeding  
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Plant Breeding and Genetics  
+      institution: Punjab Agricultral University
+      year: 2019
+    - course: MSc in Plant Breeding and Genetics
+      institution: Punjab Agricultural University 
+      year: 2014
+    - course: BSc Hons in Agriculture 
+      institution: Punjab Agricultural University
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
